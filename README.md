@@ -3,8 +3,6 @@
 A simple and visual calculator to estimate your earnings based on hourly profit.  
 Designed for creative entrepreneurs, workshop hosts, or freelance instructors.
 
----
-
 ## ✨ Features
 
 - Input your estimated total revenue and costs (materials, fixed, marketing)
@@ -16,15 +14,12 @@ Designed for creative entrepreneurs, workshop hosts, or freelance instructors.
   - 📊 Hourly profit
   - 📅 Weekly and 📆 Monthly projected earnings
 
-
-# ⏰ Hourly Profit App  
-**시간당 수익 계산기**
-
-A simple and visual calculator to estimate your earnings based on hourly profit.  
-시간당 수익을 기준으로 주간/월간 예상 수익을 계산하는 직관적인 계산기입니다.  
-워크숍 운영자, 프리랜서, 소규모 클래스 기획자에게 유용합니다.
-
 ---
+
+# ⏰ **시간당 수익 계산기**
+
+시간당 수익을 기준으로 주간/월간 예상 수익을 계산하는 직관적인 계산기입니다. 워크숍 운영자, 프리랜서, 소규모 클래스 기획자에게 유용합니다.
+
 
 ## ✨ Features | 주요 기능
 
@@ -39,12 +34,9 @@ A simple and visual calculator to estimate your earnings based on hourly profit.
   - 📅 주간 예상 수익
   - 📆 월간 예상 수익
 
----
-
 ## 🚀 Getting Started
 
 ```bash
 npm install
 npm run dev
 
----
