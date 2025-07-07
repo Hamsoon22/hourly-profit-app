@@ -16,15 +16,6 @@ Designed for creative entrepreneurs, workshop hosts, or freelance instructors.
   - 📊 Hourly profit
   - 📅 Weekly and 📆 Monthly projected earnings
 
----
-
-## 🚀 Getting Started
-
-```bash
-npm install
-npm run dev
-
----
 
 # ⏰ Hourly Profit App  
 **시간당 수익 계산기**
@@ -50,8 +41,10 @@ A simple and visual calculator to estimate your earnings based on hourly profit.
 
 ---
 
-## 🚀 Getting Started | 시작하기
+## 🚀 Getting Started
 
 ```bash
 npm install
 npm run dev
+
+---
