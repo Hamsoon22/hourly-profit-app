@@ -24,6 +24,7 @@ Designed for creative entrepreneurs, workshop hosts, or freelance instructors.
 npm install
 npm run dev
 
+---
 
 # ⏰ Hourly Profit App  
 **시간당 수익 계산기**
